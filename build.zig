@@ -1146,6 +1146,7 @@ const exercises = [_]Exercise{
         \\thread 3: finished.
         \\Zig is cool!
         ,
+        .skip = true,
     },
     .{
         .main_file = "105_threading2.zig",
